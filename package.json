@@ -5,7 +5,8 @@
   "author": "Alek Tobias <alektobias@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "dependencies": {},
   "devDependencies": {
